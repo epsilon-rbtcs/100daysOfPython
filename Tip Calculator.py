@@ -1,4 +1,4 @@
-# 💡 Day 2 of 100 Days of Python - Tip Calculator
+# Day 2 of 100 Days of Python - Tip Calculator
 
 print("Welcome to the tip calculator!")
 
@@ -13,4 +13,3 @@ total_bill = bill + (bill * tip / 100)
 amount = round(total_bill / people, 2)
 
 print(f"Each person should pay: ${amount}")
-
