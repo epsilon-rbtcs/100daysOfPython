@@ -26,6 +26,7 @@ The Caesar cipher shifts each letter of the input by a specified amount in the a
 
 ## Output
 
+```
 Type 'encode' to encrypt, type 'decode' to decrypt:
 encode
 Type your message:
@@ -45,3 +46,4 @@ Here is the decoded result: damn bro
 Type 'yes' if you want to go again. Otherwise, type 'no'.
 no
 Goodbye
+```

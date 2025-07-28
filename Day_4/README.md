@@ -23,8 +23,9 @@ This is a beginner-friendly Python implementation of the classic Rock, Paper, Sc
 
 ---
 
-##  Example Run
+##  Sample Output
 
+```
 What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors: 2
 
     _______
@@ -44,3 +45,4 @@ Computer chose:
 ---.__________)
 
 You won.
+```

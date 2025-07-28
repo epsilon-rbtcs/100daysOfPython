@@ -18,9 +18,11 @@ This is a simple Python program that calculates how much each person should pay 
 - `f-string` for displaying results clearly
 
 #  Example Output
+
+```
 Welcome to the tip calculator!
 What was the total bill? $145.67
 What percentage tip would you like to give? 10, 12, or 15? 12
 How many people to split the bill? 3
 Each person should pay: $54.38
-
+```

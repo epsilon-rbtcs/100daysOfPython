@@ -23,8 +23,10 @@ The program allows users to define how many **letters**, **symbols**, and **numb
 ###  Easy Version (`Easy Password Generator.py`)
 
 - Generates a password with all **letters first**, followed by **symbols**, then **numbers** in sequence
-- Example Output:
 
+ #### Example Output:
+
+```
 Welcome to the PyPassword Generator!
 How many letters would you like in your password?
 7
@@ -33,13 +35,15 @@ How many symbols would you like?
 How many numbers would you like?
 3
 Your password is : thYyaNp$!#+278
+```
 
 ### Hard Version (`Hard Password Generator.py`)
 
 - Generates a password with the selected number of letter, symbols and numbers but this time all characters are randomly shuffled instead of being placed in a determined sequence makng harder to guess than the easy one.
 
--Example Output:
+#### Example Output:
 
+```
 Welcome to the PyPassword Generator!
 How many letters would you like in your password?
 7
@@ -50,3 +54,4 @@ How many numbers would you like?
 ['g', 'c', 'U', 'R', 'a', 'H', 'C', '&', '#', '!', '(', '$', '3', '6', '4', '7']
 ['!', 'c', '4', 'C', '6', 'g', '(', '&', 'U', 'a', '7', '3', '$', 'R', 'H', '#']
 Your password is : !c4C6g(&Ua73$RH#
+```

@@ -19,7 +19,7 @@ This is a simple text-based adventure game built on Day 3 of the 100 Days of Pyt
 
 ## Sample Output
 
-
+```
                     ____...------------...____
                _.-"` /o/__ ____ __ __  __ \o\_`"-._
              .'     / /                    \ \     '.
@@ -47,3 +47,4 @@ wait
 You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue. Which colour do you choose?
 red
 It's a room full of fire. Game Over.
+```
