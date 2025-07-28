@@ -15,6 +15,7 @@ Generates a fun band name based on your input!
 - String concatenation
 
 #  Output
+```
 Welcome to Band Name Generator Program
 We can generate amazing band name for you !!
 Enter the city you grew up in :
@@ -22,3 +23,4 @@ New York
 Enter the name of your pet :
 Betty
 Your band name could be New York Betty
+```
